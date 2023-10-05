@@ -1,5 +1,4 @@
-# snake-game
-remedial project of snake game
+# Remedial project of snake game
 # Snake Game Project
 
 ## Introduction
